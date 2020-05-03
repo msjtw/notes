@@ -1,3 +1,9 @@
+- [surowce energetyczne](#surowce-energetyczne)
+  - [węgiel brunatny](#w%c4%99giel-brunatny)
+  - [ropa naftowa](#ropa-naftowa)
+
+# surowce energetyczne
+
 ## węgiel brunatny
 
 * niemcy
