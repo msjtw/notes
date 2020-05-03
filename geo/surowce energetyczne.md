@@ -5,6 +5,7 @@
   - [uran](#uran)
 - [Produkcja energii elektrycznej](#produkcja-energii-elektrycznej)
   - [największa produkcja](#najwi%c4%99ksza-produkcja)
+    - [produkcja energi w USA:](#produkcja-energi-w-usa)
   - [państwa z największym udziałem energii z:](#pa%c5%84stwa-z-najwi%c4%99kszym-udzia%c5%82em-energii-z)
 
 # surowce energetyczne
@@ -72,6 +73,15 @@
 * Rosja
 * Japonia
 
+### produkcja energi w USA:
+|   źródło   |   %   |
+| :--------: | :---: |
+|   wiatr    | 10,2  |
+|   słońce   |  2,4  |
+|   węgiel   | 20,4  |
+| gaz ziemny | 34,9  |
+|    atom    | 20,5  |
+
 ## państwa z największym udziałem energii z:
 * wegla
   1. Chiny
@@ -95,3 +105,5 @@
   2. paragwaj
   3. rosja
   4. chiny
+
+
