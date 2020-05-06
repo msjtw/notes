@@ -7,6 +7,12 @@
   - [największa produkcja](#najwi%c4%99ksza-produkcja)
     - [produkcja energi w USA:](#produkcja-energi-w-usa)
   - [państwa z największym udziałem energii z:](#pa%c5%84stwa-z-najwi%c4%99kszym-udzia%c5%82em-energii-z)
+    - [wegla](#wegla)
+    - [gazu ziemnego (błełkitna energia):](#gazu-ziemnego-b%c5%82e%c5%82kitna-energia)
+    - [eneria jądrowa](#eneria-j%c4%85drowa)
+    - [wodna](#wodna)
+  - [alternatywne źródła energii](#alternatywne-%c5%bar%c3%b3d%c5%82a-energii)
+    - [Wiatr](#wiatr)
 
 # surowce energetyczne
 
@@ -83,27 +89,35 @@
 |    atom    | 20,5  |
 
 ## państwa z największym udziałem energii z:
-* wegla
+### wegla
   1. Chiny
   2. Indie
   3. Niemcy
   4. USA
   5. Polska
   6. RPA
-* gazu ziemnego (błełkitna energia):
+### gazu ziemnego (błełkitna energia):
   1. iran
   2. katar
   3. argentyna
   4. rosja
-* eneria jądrowa
+### eneria jądrowa
   1. francja
   2. nimcy
   3. rosja
   4. usa
-* wodna
+### wodna
   1. brazylia
   2. paragwaj
   3. rosja
   4. chiny
 
+## alternatywne źródła energii
 
+### Wiatr
+
+zalety | wady
+:---: | :---:
+czysta energia | oraniczona do obszarów z silnym wiatrem
+energia odnawialna | wiatr jest zmienny
+po powstawieniu wiatraków - praktycznie nie generuje kosztow | zajmują dużo miejsca
